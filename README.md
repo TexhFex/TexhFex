@@ -15,8 +15,8 @@ I have deep experience with Quarkus, including REST APIs, JWT security, PostgreS
 * Secure and automated deployments using Docker, GitHub Actions, Traefik, and Cloudflare.
 
 💡 I’m currently deepening my knowledge in:
-* Energy-efficient communication protocols (UART, I²C, LoRa)
-* Embedded data processing and analog signal acquisition (SAMD21)
+* Energy-efficient sensor systems based on ARM microcontrollers
+* Secure backend development with Java & Quarkus, using HMAC-authenticated endpoints and OpenID Connect
 * CI/CD pipelines and container orchestration
 
 🧠 Programming languages I use: **Java, C, C++, TypeScript, Swift, Python** *— plus Bash and for platform-specific tooling.*
