@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://texhfexlabs.de"><img src="https://img.shields.io/badge/TexhFexLabs-3C5AE8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TexhFexLabs" /></a>
+  <a href="https://texhfexlabs.de"><img src="https://img.shields.io/badge/TexhFexLabs-3C5AE8?style=for-the-badge&logo=safari&logoColor=white" alt="TexhFexLabs" /></a>
   <a href="https://github.com/TexhFexLabs"><img src="https://img.shields.io/badge/TexhFexLabs-111113?style=for-the-badge&logo=github&logoColor=white" alt="TexhFexLabs auf GitHub" /></a>
   <a href="mailto:contact@texhfexlabs.de"><img src="https://img.shields.io/badge/Kontakt-111113?style=for-the-badge&logo=maildotru&logoColor=white" alt="Kontakt" /></a>
 </p>
@@ -25,7 +25,7 @@ Neben dem Studium entwickle und betreibe ich unter **TexhFexLabs** eigene digita
     <td width="50%" valign="top">
       <h3>HydroNode Network</h3>
       <p>Eine sichere IoT Plattform für Hydroponik, Wetterstationen und Umweltsensorik. Messwerte werden in Echtzeit verarbeitet, auf Anomalien geprüft und im Web, auf dem iPhone sowie in Home Assistant verfügbar gemacht.</p>
-      <p><code>IoT</code> <code>LoRaWAN</code> <code>Quarkus</code> <code>Angular</code> <code>HMAC</code></p>
+      <p><code>IoT</code> <code>LoRaWAN</code> <code>Quarkus</code> <code>Kafka</code> <code>Angular</code> <code>HMAC</code></p>
       <a href="https://hydronode.texhfexlabs.de"><strong>HydroNode ansehen</strong></a>
     </td>
     <td width="50%" valign="top">
@@ -45,7 +45,7 @@ Neben dem Studium entwickle und betreibe ich unter **TexhFexLabs** eigene digita
     <td width="50%" valign="top">
       <h3>HydroNode für iOS</h3>
       <p>Eine native SwiftUI App für Stationen, Live Messwerte und Anomalien. Direkt mit dem HydroNode Netzwerk verbunden und konsequent für eine klare mobile Nutzung entwickelt.</p>
-      <p><code>SwiftUI</code> <code>Sign in with Apple</code> <code>Realtime</code> <code>iOS</code></p>
+      <p><code>SwiftUI</code> <code>Auth0</code> <code>APNs</code> <code>Realtime</code> <code>iOS</code></p>
       <a href="https://texhfexlabs.de"><strong>Mehr erfahren</strong></a>
     </td>
   </tr>
