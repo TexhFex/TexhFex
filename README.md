@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://texhfexlabs.de"><img src="https://img.shields.io/badge/TexhFexLabs-3C5AE8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="TexhFexLabs" /></a>
-  <a href="https://github.com/TexhFexLabs"><img src="https://img.shields.io/badge/GitHub_Labs-111113?style=for-the-badge&logo=github&logoColor=white" alt="TexhFexLabs auf GitHub" /></a>
+  <a href="https://github.com/TexhFexLabs"><img src="https://img.shields.io/badge/TexhFexLabs-111113?style=for-the-badge&logo=github&logoColor=white" alt="TexhFexLabs auf GitHub" /></a>
   <a href="mailto:contact@texhfexlabs.de"><img src="https://img.shields.io/badge/Kontakt-111113?style=for-the-badge&logo=maildotru&logoColor=white" alt="Kontakt" /></a>
 </p>
 
 ## Über mich
 
-Ich bin Felix Knoll und studiere Technische Informatik an der OTH Regensburg. Mein Studium absolviere ich dual bei BMW. Dort verbinde ich akademisches Wissen mit der Entwicklung in einem professionellen technischen Umfeld.
+Ich bin Felix Knoll und studiere Technische Informatik an der OTH Regensburg im dualen Studium bei BMW.
 
-Neben Studium und Arbeit entwickle und betreibe ich unter **TexhFexLabs** eigene digitale Produkte. Mich interessieren besonders Systeme, bei denen Embedded Hardware, sichere Backends, moderne Oberflächen und zuverlässiger Betrieb als ein Gesamtprodukt zusammenspielen.
+Neben dem Studium entwickle und betreibe ich unter **TexhFexLabs** eigene digitale Produkte. Mich interessieren besonders Systeme, bei denen Embedded Hardware, sichere Backends, moderne Oberflächen und zuverlässiger Betrieb als ein Gesamtprodukt zusammenspielen.
 
 > Ich baue keine reinen Demos. Ich entwickle Systeme, die im Alltag wirklich laufen.
 
